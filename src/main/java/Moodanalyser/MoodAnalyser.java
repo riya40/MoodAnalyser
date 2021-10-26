@@ -17,7 +17,6 @@ public class MoodAnalyser
         //exception handling
 
         try{
-
             //passing the message
         if (this.message.contains("sad")) {
             return "sad";
